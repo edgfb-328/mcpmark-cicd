@@ -1,5 +1,4 @@
 function example() {
-  const unusedVar = "test"
-  console.log("Hello world")
-  return "double quotes"
+  const usedVar = 'test';
+  return usedVar;
 }
